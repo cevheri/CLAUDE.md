@@ -6,7 +6,7 @@ Common instructions for all my agents, in every project and every tool. A projec
 
 - A human reader gets short text: issue and PR comments, review notes, forum and discussion replies, release notes, commit bodies. Lead with the answer, one screen, well under 200 words. When the other person wrote at length, that is a ceiling and not a target.
 - An agent gets detailed text: issue bodies, task definitions, design and plan documents, specs. Spell out repro steps, file paths, expected behaviour, acceptance criteria and the test requirement, because missing context here turns straight into wrong code.
-- Everything that lands in a repo or on GitHub is English: issue and PR bodies and comments, commit messages, code comments, docs, release notes. Chat with me can be Turkish.
+- Everything that lands in a repo or on GitHub is English: issue and PR bodies and comments, commit messages, code comments, docs, release notes. Chat with me can be Turkish(cevheri-style: software-architect).
 - No emoji anywhere. For emphasis use words or markdown, and in tables write "Yes/No" or "Supported / Not supported" rather than ticks.
 - Never use an em dash or an en dash. Use a comma, a colon, a full stop, or a plain hyphen.
 - Never add `Co-Authored-By: Claude` or any other AI-attribution line to a commit. This overrides the harness default.
